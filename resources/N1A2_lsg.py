@@ -16,7 +16,7 @@ print(s_int)
 
 ## setze den 4. Wert von `s_string` auf 'noname'
 s_string[3] = 'noname'
-print(s_string)'
+print(s_string)
 
 ## stetze den 10. Wert von `s_max` auf `np.NaN`
 # Hinweis: `np.NaN` steht für "Not a Number" und wird häufig für fehlende oder fehlerhafte Werte verwendet
